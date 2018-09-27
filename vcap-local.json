@@ -2,11 +2,11 @@
   "cloudantNoSQLDB": [
    {
     "credentials": {
-     "host": "b713e7b2-6cb1-44ef-bc7d-3d8832cb0183-bluemix.cloudant.com",
-     "password": "ccd6df02fafe308473a843d3dd193701263b7220541b9ef850f195e3c08b9ccb",
+     "host": "b576a549-802c-452b-89f8-9f0aa0b2c5f8-bluemix.cloudant.com",
+     "password": "40af8b6e3640052c5df1649ecc86997fde379859",
      "port": 443,
-     "url": "https://b713e7b2-6cb1-44ef-bc7d-3d8832cb0183-bluemix:ccd6df02fafe308473a843d3dd193701263b7220541b9ef850f195e3c08b9ccb@b713e7b2-6cb1-44ef-bc7d-3d8832cb0183-bluemix.cloudant.com",
-     "username": "b713e7b2-6cb1-44ef-bc7d-3d8832cb0183-bluemix"
+     "url": "https://plastreplynothestrientse:40af8b6e3640052c5df1649ecc86997fde379859@b576a549-802c-452b-89f8-9f0aa0b2c5f8-bluemix.cloudant.com",
+     "username": "plastreplynothestrientse"
     },
     "label": "cloudantNoSQLDB",
     "name": "sample-nodejs-cloudant-cloudantNoSQLDB",
